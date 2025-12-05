@@ -1,0 +1,12 @@
+site_name: was_scipts
+site_author: wasknk    
+repo_url: https://github.com/YourUsername/YourRepoName 
+
+theme:
+    name: readthedocs      
+    highlightjs: true       
+
+nav:
+    - 首页: 'index.md'      
+    - 脚本教程指南: 'guide.md' 
+    - Docker Usage: 'docker.md'
