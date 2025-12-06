@@ -20,4 +20,17 @@ nvm install <version>
 # use specific version 
 nvm use <version>
 
+# download and use lts
+nvm install lts
+nvm use lts
+```
+
+
+## ts-node as TypeScript execution environment for practice
+
+```bash
+pnpm init
+pnpm install -D typescript ts-node @types/node
+pnpm tsc --init
+pnpm ts-node yourcode.ts
 ```
