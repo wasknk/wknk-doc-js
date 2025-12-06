@@ -15,12 +15,12 @@ nvm install node
 # use newest
 nvm use newest
 
-# download version 
+# download specific version 
 nvm install <version>
 # use specific version 
 nvm use <version>
 
-# download and use lts
+# download and use LTS version
 nvm install lts
 nvm use lts
 ```
