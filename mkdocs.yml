@@ -1,4 +1,4 @@
-site_name: was_scipts
+site_name: wknk-doc-js
 site_author: wasknk    
 repo_url: https://github.com/YourUsername/YourRepoName 
 
@@ -12,3 +12,4 @@ nav:
     - Docker Usage: 'docker.md'
     - Build tools of JS: 'build_tools.md'
     - vulnerability: 'vulnerability.md'
+    - Eslint: 'eslint.md'
