@@ -13,3 +13,4 @@ nav:
     - Build tools of JS: 'build_tools.md'
     - vulnerability: 'vulnerability.md'
     - Eslint: 'eslint.md'
+    - Nvm: 'nvm.md'
