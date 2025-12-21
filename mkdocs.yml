@@ -14,3 +14,4 @@ nav:
     - vulnerability: 'vulnerability.md'
     - Eslint: 'eslint.md'
     - Nvm: 'nvm.md'
+    - vite: 'vite.md'
